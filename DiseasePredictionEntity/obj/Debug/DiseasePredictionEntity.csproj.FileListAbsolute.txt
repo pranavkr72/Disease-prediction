@@ -1,0 +1,1 @@
+C:\Users\M1057647\source\repos\DiseasePredictionMvcWeekendAssignment\DiseasePredictionEntity\obj\Debug\DiseasePredictionEntity.csproj.CoreCompileInputs.cache

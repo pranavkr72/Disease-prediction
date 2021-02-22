@@ -1,0 +1,35 @@
+﻿@model DiseasePrediction.Models.DiseaseModel
+@{
+    ViewBag.Title = "AddDisease";
+}
+
+<h2>AddDisease</h2>
+
+<form action="AddDisease" method="post">
+
+    <label for="DiseaseName">Disease Name:</label>
+    <input type="text" id="DiseaseName" value="" required>
+    <br />
+    <label for="DiseaseSeverty">Choose severity:</label>
+    <select id="DiseaseSeverty">
+        <option value="High">High</option>
+        <option value="Medium">Medium</option>
+        <option value="Low">Low</option>
+    </select>
+    <br />
+    <label for="DiseaseCause">Disease Cause:</label>
+    <input type="radio" id="ExternalFactors" name="DiseaseCause" value="ExternalFactors">
+    <label for="ExternalFactors">External Factors</label><br>
+    <input type="radio" id="InternalDisorders" name="DiseaseCause" value="InternalDisorders">
+    <label for="InternalDisorders">Internal Disorders</label><br>
+
+    <label for="DiseaseDescription">Disease Description:</label>
+    <input type="text" id="DiseaseDescription" value="" required>
+    <br />
+
+    <input type="submit" value="Save">
+</form>
+
+
+
+

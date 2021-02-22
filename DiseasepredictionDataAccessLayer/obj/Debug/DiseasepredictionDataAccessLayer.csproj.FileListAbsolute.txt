@@ -1,0 +1,2 @@
+C:\Users\M1057647\source\repos\DiseasePredictionMvcWeekendAssignment\DiseasepredictionDataAccessLayer\obj\Debug\DiseasepredictionDataAccessLayer.csprojAssemblyReference.cache
+C:\Users\M1057647\source\repos\DiseasePredictionMvcWeekendAssignment\DiseasepredictionDataAccessLayer\obj\Debug\DiseasepredictionDataAccessLayer.csproj.CoreCompileInputs.cache
